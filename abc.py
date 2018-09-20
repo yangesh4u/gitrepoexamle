@@ -8,7 +8,7 @@ this is for stashing demo
 
 >>>>>>> feature2
 
-this is  feature1
+this is new change in  feature2
 
 this the change in feature2
 <<<<<<< HEAD
